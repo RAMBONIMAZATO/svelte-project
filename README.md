@@ -1,4 +1,4 @@
-Installation dans le readme.md de chaque dossier
+Installation dans le readme.md dans chaque dossier
 
 
 
